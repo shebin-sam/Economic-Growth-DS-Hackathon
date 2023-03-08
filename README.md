@@ -1,4 +1,4 @@
-# Economic-Growth-DS-Hackathon
+# Religion-Distribution-DS-Hackathon
 
 **Team Member:**
 **Shebin Sam URK22CS7035**
